@@ -69,4 +69,6 @@ update: Updates an instance based on class name, ID, and attribute value.
 Collins Oloo
 Amos Shikoli
 
+
+tasks for the web_static projec
 #web_static
